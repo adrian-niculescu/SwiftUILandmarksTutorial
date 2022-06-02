@@ -1,3 +1,7 @@
-# Swift UI Tutorials - Landmarks
+# Swift UI Tutorials - Landmarks app
 
-Solution code for [this Swift UI tutorial](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views).
+Solution code for the Swift tutorials
+- [Creating and Combining Views](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
+- [Building Lists and Navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation)
+
+All SwiftUI tutorials: https://developer.apple.com/tutorials/swiftui
